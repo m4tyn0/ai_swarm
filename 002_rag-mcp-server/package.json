@@ -1,0 +1,17 @@
+{
+  "name": "002_rag-mcp-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.5.0",
+    "cheerio": "^1.0.0",
+    "chroma-node": "^1.0.3"
+  }
+}
